@@ -10,10 +10,6 @@ Please refer:
 ![American Sign Language Chart](ASL.png)
 
 
-## NEURAL NETWORK MODEL USED
-
-MobileNet CNN architecture was used. The last 23 layers were retrained on the dataset to benefit from transfer learning
-
 ## DATASET USED
 
 Data downloaded from https://www.kaggle.com/datamunge/sign-language-mnist. Data Augmentation techniques were used to further improve accuracy. 
